@@ -39,5 +39,4 @@ function App() {
     </div>
   )
 }
-fdsfsd
 export default App
