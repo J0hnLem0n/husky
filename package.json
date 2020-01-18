@@ -60,6 +60,7 @@
       "git add"
     ],
     "withoutprettier/**/*.{js,jsx}": [
+      "eslint --max-warnings=0",
       "git add"
     ]
   }
