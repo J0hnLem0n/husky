@@ -55,7 +55,7 @@
       "eslint --max-warnings=0",
       "git add"
     ],
-    "newsrc/**/*.{js,jsx}": [
+    "withoutlint/**/*.{js,jsx}": [
       "prettier --write",
       "git add"
     ],
