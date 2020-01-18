@@ -58,6 +58,9 @@
     "newsrc/**/*.{js,jsx}": [
       "prettier --write",
       "git add"
+    ],
+    "withoutprettier/**/*.{js,jsx}": [
+      "git add"
     ]
   }
 }
